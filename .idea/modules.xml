@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://E://testRabbitmq/testRabbitmq.iml" filepath="E://testRabbitmq/testRabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testRabbitmq.iml" filepath="$PROJECT_DIR$/testRabbitmq.iml" />
     </modules>
   </component>
 </project>
